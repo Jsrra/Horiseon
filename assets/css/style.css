@@ -35,7 +35,7 @@ body {
 .header ul {
     list-style-type: none;
 }
-
+/* changed the div's to nav to match the sematic changes in html` */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
